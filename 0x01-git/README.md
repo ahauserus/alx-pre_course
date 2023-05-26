@@ -1,3 +1,3 @@
 ## 0x01-git
 ___
-My first git project
+The project has been updated via Github
